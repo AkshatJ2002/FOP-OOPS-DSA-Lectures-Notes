@@ -1,11 +1,12 @@
 # Programming Notes Repository
 
-This repository contains notes for **Fundamentals of Programming (FOP)** and **Object-Oriented Programming (OOPS)**. These notes are designed to help students and developers understand core programming concepts and object-oriented paradigms.
+This repository contains notes on **Fundamentals of Programming (FOP)**, **Object-Oriented Programming (OOPS)**, and **Data Structures and Algorithms (DSA)**. These notes are designed to help students and developers understand core programming concepts, object-oriented paradigms, and important data structures and algorithms.
 
 ## Table of Contents
 
 - [Fundamentals of Programming (FOP)](#fundamentals-of-programming-fop)
 - [Object-Oriented Programming (OOPS)](#object-oriented-programming-oops)
+- [Data Structures and Algorithms (DSA)](#data-structures-and-algorithms-dsa)
 
 ---
 
@@ -33,6 +34,20 @@ The **Object-Oriented Programming (OOPS)** notes focus on principles of object-o
   - Encapsulation
   - Abstraction
   - Constructors and Destructors
+
+---
+
+## Data Structures and Algorithms (DSA)
+
+The **Data Structures and Algorithms (DSA)** notes cover essential data structures and algorithms needed for problem-solving and competitive programming.
+
+- **Topics Covered**:
+  - Arrays, Linked Lists, Stacks, and Queues
+  - Trees and Graphs
+  - Searching and Sorting Algorithms
+  - Dynamic Programming
+  - Greedy Algorithms
+  - Time and Space Complexity
 
 ---
 
